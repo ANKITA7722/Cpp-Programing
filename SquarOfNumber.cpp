@@ -4,13 +4,12 @@ int main()
 //dynamic programing
 //modulus operator and return remainder
 {
- int a,b,c,d;
+    
+ int a;
  cout<<"enter 1st number";
  cin>>a;
- cout<<"enter 2nd number";
- cin>>b;
- c = a % b;
- d = a + b;
- cout<<c;
+ cout<<"squar="<<a*a*<<"\n";
+ cout<<"cube="<<a*a*a<<"\n";
+ cout<<"area of sercle="<<3.14*a*a;
 
 }
